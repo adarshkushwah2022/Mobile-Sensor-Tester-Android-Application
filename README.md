@@ -31,16 +31,4 @@ phone.
 upwards and stop collecting data when the screen is placed downwards on
 a surface.
 
-**Rubric:**
-1. Read individual sensor data (0.5 X 6 = 3 marks)
-Store in ROOM Database (0.5 X 6 = 3 marks)
-2. Plot graphs (1.5 X 2 = 3 marks)
-3. Display Toast for start/stop (1 mark)
-4. Motion Detection (2 marks)
-5. Switching mode (2 marks)
-6. Add a place (2 marks), Find my places (2 marks)
-7. Bonus 2 marks
-8. Bonus: 2 marks\
-
-
 **Note:** For Plotting the Graphs, You can use the MPChart library.
